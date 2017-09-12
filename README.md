@@ -1,0 +1,2 @@
+# microstrategy-sanky
+sanky plugin
